@@ -7,3 +7,4 @@ coverage/
 pakcages/*/lib
 .vscode
 **/.nyc_output
+public/
